@@ -57,7 +57,7 @@ highlight SpellBad        guifg=#d7005f    guibg=NONE       gui=undercurl    gui
 highlight SpellCap        guifg=#af87ff    guibg=NONE       gui=undercurl    guisp=#af87ff
 highlight SpellRare       guifg=#00ff87    guibg=NONE       gui=undercurl    guisp=#00ff87
 highlight SpellLocal      guifg=#ff5f5f    guibg=NONE       gui=undercurl    guisp=#ff5f5f
-highlight Pmenu           guifg=#585858    guibg=#1c1c1c    gui=NONE
+highlight Pmenu           guifg=#efefef    guibg=#1c1c1c    gui=NONE
 highlight PmenuSel        guifg=#101010    guibg=#ff5f5f    gui=NONE
 highlight PmenuSbar       guifg=#101010    guibg=#1c1c1c    gui=NONE
 highlight PmenuThumb      guifg=#101010    guibg=#af87ff    gui=NONE
